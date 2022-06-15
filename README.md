@@ -1,2 +1,7 @@
 # sastabaazarapp
-SASTA BAZAR APP live coding class on flutter
+
+A new Flutter project.
+
+## school of app
+
+we are strating our flutter project to buid an application of sastabaazarapp.
